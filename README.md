@@ -12,5 +12,4 @@ Information storage
 iBlueTool stored information can only be stored on your machine, will not cause data sharing.
 Information security 
 iBlueTool will not cause your information leak, the App does not connect to the Internet network data.
---------------------- 
 
