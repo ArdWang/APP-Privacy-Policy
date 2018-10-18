@@ -4,12 +4,12 @@ The iBlueTool respects and protects the privacy of all users who use the service
 A) When you use the iBlueTool you need to use your phone Bluetooth permissions and camera permissions; 
 B) the use of iBlueTool need to use your mobile phone SDK storage permissions;
 
-Information disclosure 
+1. Information disclosure 
 A) iBlueTool will not get any information on your phone. 
 B) disclosure to a third party or administrative or judicial body in accordance with the relevant provisions of the law or at the request of the administrative or judicial body;
 
-Information storage 
+1. Information storage 
 iBlueTool stored information can only be stored on your machine, will not cause data sharing.
-Information security 
+2. Information security 
 iBlueTool will not cause your information leak, the App does not connect to the Internet network data.
 
